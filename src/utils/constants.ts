@@ -1,0 +1,2 @@
+export const GEO_CODER_TOKEN = 'AIzaSyDJyG-mC9ekuabZfSsB2CZK3Bdj8FXvD8E';
+export const WEATHER_API_TOKEN = 'ef5721133c8f1f828d187dcb781ee069';
