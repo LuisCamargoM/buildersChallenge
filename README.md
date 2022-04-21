@@ -3,6 +3,7 @@
 ## 📝 Description
 
 The goal of this app, by getting your actual geolocation, is to show your address information and also some about the weather conditions in that place.
+Between 09:00am and 5:00pm the colors are bright and outsite this range the colors become darker
 
 ## 🛠️ Specifications
 
