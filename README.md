@@ -56,7 +56,7 @@ npx pod-install
 
 ---
 
-## Home Screen
+## Screens
 
 <img src="./showcase/intro.png" >
 Made by <a href="https://www.github.com/luiscamargom">Luis Camargo</a>
