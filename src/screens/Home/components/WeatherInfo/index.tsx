@@ -56,7 +56,7 @@ export const WeatherInfo: React.FC = () => {
   };
 
   const nightMood = (): boolean => {
-    return today <= "09:00" && today >= "17:00";
+    return today <= "09:00" || today >= "17:00";
   };
 
   const updateDateTime = (): void => {
